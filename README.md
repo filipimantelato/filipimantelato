@@ -1,4 +1,4 @@
-### Opaa, eu sou o Filipi Mantelato, estudante de programação e tecnologia!
+### Opaa, eu sou o Filipi Mantelato, estudante de programação!
 
 <div align="center">
   <a href="https://github.com/filipimantelato">
