@@ -1,5 +1,3 @@
-### Opaa, eu sou o Filipi Mantelato, estudante de programação front-end!
-
 <div align="center">
   <a href="https://github.com/filipimantelato">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=filipimantelato&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true"/>
