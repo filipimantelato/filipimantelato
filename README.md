@@ -1,7 +1,7 @@
 <div align="center">
   <a href="https://github.com/filipimantelato">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=filipimantelato&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=filipimantelato&theme=onedark&layout=compact)](https://github.com/filipimantelato/github-readme-stats"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=filipimantelato&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=filipimantelato&theme=onedark&layout=compact)](https://github.com/filipimantelato/github-readme-stats"/>
 </div>
 
 <div style="display: inline_block"><br>
