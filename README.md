@@ -1,12 +1,14 @@
 <div align="center">
   <a href="https://github.com/filipimantelato">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=filipimantelato&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=filipimantelato&theme=onedark&layout=compact)](https://github.com/filipimantelato/github-readme-stats"/>
 </div>
 
 <div style="display: inline_block"><br>
-  <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+  <img width="50" height="50" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/java/java-plain.svg" />
+  <img width="50" height="50" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/spring/spring-original.svg" />
 </div>
-
+  
 ##
 
 <div> 
