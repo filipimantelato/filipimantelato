@@ -1,17 +1,28 @@
-<div align="center">
-  <a href="https://github.com/filipimantelato">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=filipimantelato&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=filipimantelato&theme=onedark&layout=compact)](https://github.com/filipimantelato/github-readme-stats"/>
+<div>
+<p>• ⚔️ Estudando Python, Cloud Computing e Pentest</p>
+<p>• 💻 Estudante de Análise e Desenvolvimento de Sistemas - 1⁰ Semestre.</p>
+<p>• 💜 Tema preferido <a href = "https://github.com/rose-pine">Rosé Pine</a></p>
 </div>
 
-<div style="display: inline_block"><br>
-  <img width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/java/java-plain.svg" />
-  <img width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/spring/spring-original.svg" />
-</div>
-  
-##
+```python
+def info():
+  info = "Developer and Systems Analyst"
+
+def pronuns():
+  pronuns = "he/him"
+
+def pronuns():
+  langs = ["Python", "Java"]
+```
+
+#
+TECNOLOGIAS
 
 <div> 
   <a href = "mailto:filipimantelato06@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/filipi-mantelato-241610249" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
+  <a href="https://www.linkedin.com/in/filipi-mantelato-241610249" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="" target="_blank"><img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" target="_blank"></a><br>
+  <a href="" target="_blank"><img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" target="_blank"></a> 
+  <a href="" target="_blank"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" target="_blank"></a> 
+  <a href="" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a> 
 </div>
