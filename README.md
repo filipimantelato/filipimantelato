@@ -12,7 +12,7 @@ def info():
 def pronuns():
   pronuns = "he/him"
 
-def pronuns():
+def langs():
   langs = ["Python", "Java"]
 ```
 
