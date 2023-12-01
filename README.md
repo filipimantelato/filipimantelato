@@ -16,7 +16,7 @@ def langs():
 ```
 
 
-<br><h2>TECNOLOGIAS</h2>
+<br><h2>Tecnologias</h2>
 
 <div> 
   <a href = "mailto:filipimantelato06@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
