@@ -1,6 +1,6 @@
 <div>
 <h1>Olá! Sou o Felps 👋</h1>
-<p>• ⚔️ Estudando Python, Cloud Computing e Pentest</p>
+<p>• ⚔️ Estudando Python, Docker e Pentest</p>
 <p>• 💻 Estudante de Análise e Desenvolvimento de Sistemas - 1⁰ Semestre.</p>
 </div>
 
