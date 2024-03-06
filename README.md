@@ -1,7 +1,7 @@
 <div>
 <h1>Olá! Sou o Felps 👋</h1>
-<p>• ⚔️ Estudando Python, Docker e Pentest</p>
-<p>• 💻 Estudante de Análise e Desenvolvimento de Sistemas - 1⁰ Semestre.</p>
+<p>• ⚔️ Estudando Python, PHP e MySQL</p>
+<p>• 💻 Estudante de Análise e Desenvolvimento de Sistemas - 2⁰ Semestre.</p>
 </div>
 
 ```python
@@ -12,7 +12,7 @@ def pronuns():
   pronuns = "he/him"
 
 def langs():
-  langs = ["Python", "Java"]
+  langs = ["Python", "Java", "PHP"]
 ```
 
   <a href = "mailto:filipimantelato06@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
