@@ -1,6 +1,6 @@
 <div>
 <h1>Olá! Sou o Felps 👋</h1>
-<p>• ⚔️ Estudando Python, PHP e MySQL</p>
+<p>• ⚔️ Estudando Java, Cloud Computing e MySQL</p>
 <p>• 💻 Estudante de Análise e Desenvolvimento de Sistemas - 2⁰ Semestre.</p>
 </div>
 
