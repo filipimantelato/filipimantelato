@@ -15,7 +15,7 @@ def langs():
   langs = ["Python", "Java", "PHP"]
 ```
 
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=filipimantelato&hide_progress=true)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=filipimantelato&hide_progress=true&theme=tokyonight)
 
   <a href = "mailto:filipimantelato06@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/filipi-mantelato-241610249" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
