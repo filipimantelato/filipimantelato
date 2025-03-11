@@ -12,7 +12,7 @@ def pronuns():
   pronuns = "he/him"
 
 def langs():
-  langs = ["Python", "Java", "PHP"]
+  langs = ["C#", "Java", "Python"]
 ```
 
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=filipimantelato&hide_progress=true&theme=tokyonight)
