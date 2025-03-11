@@ -12,11 +12,6 @@ class Program
         return "Developer and Systems Analyst";
     }
 
-    static string Pronouns()
-    {
-        return "he/him";
-    }
-
     static string[] Langs()
     {
         return new string[] { "C#", "Java", "Python" };
