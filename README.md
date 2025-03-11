@@ -5,14 +5,24 @@
 </div>
 
 ```python
-def info():
-  info = "Developer and Systems Analyst"
+class Program
+{
+    static string Info()
+    {
+        return "Developer and Systems Analyst";
+    }
 
-def pronuns():
-  pronuns = "he/him"
+    static string Pronouns()
+    {
+        return "he/him";
+    }
 
-def langs():
-  langs = ["C#", "Java", "Python"]
+    static string[] Langs()
+    {
+        return new string[] { "C#", "Java", "Python" };
+    }
+}
+
 ```
 
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=filipimantelato&hide_progress=true&theme=tokyonight)
