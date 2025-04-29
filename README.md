@@ -1,7 +1,7 @@
 <div>
 <h1>Olá! Sou o Filipi 👋</h1>
 <p>• ⚔️ Estudando C#, .NET e MySQL</p>
-<p>• 💻 Estudante de Análise e Desenvolvimento de Sistemas - 2⁰ Semestre.</p>
+<p>• 💻 Estudante de Análise e Desenvolvimento de Sistemas - 4⁰ Semestre.</p>
 </div>
 
 ```python
