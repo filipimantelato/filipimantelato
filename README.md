@@ -1,6 +1,6 @@
 <div>
 <h1>Olá! Sou o Filipi 👋</h1>
-<p>• ⚔️ Estudando C#, .NET e MySQL</p>
+<p>• ⚔️ Estudando JAVA e MySQL</p>
 <p>• 💻 Estudante de Análise e Desenvolvimento de Sistemas - 4⁰ Semestre.</p>
 </div>
 
@@ -12,9 +12,9 @@ class Program
         return "Developer and Systems Analyst";
     }
 
-    static string[] Langs()
+    static string[] Abilities()
     {
-        return new string[] { "C#", "Java", "Python" };
+        return new string[] { "Java", "Spring Boot", "JPA/Hibernate" };
     }
 }
 
