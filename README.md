@@ -71,12 +71,4 @@ No dia a dia aplico **SOLID**, **Clean Code**, **Design Patterns**, testes autom
   <a href="mailto:filipimantelato06@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=filipimantelato&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=filipimantelato&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
 
