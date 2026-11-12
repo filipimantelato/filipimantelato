@@ -13,7 +13,7 @@
 
 ---
 
-## 👨‍💻 Sobre mim
+## Sobre mim
 
 Desenvolvedor Backend Java com **2 anos de experiência**, especializado em **sistemas bancários** e aplicações de alta criticidade. Atuo com **Java, Spring Boot, APIs REST e Microsserviços**, do requisito à produção.
 
@@ -32,7 +32,7 @@ No dia a dia aplico **SOLID**, **Clean Code**, **Design Patterns**, testes autom
 
 ---
 
-## 🛠️ Tecnologias
+## Tecnologias
 
 **Backend**
 
@@ -54,7 +54,7 @@ No dia a dia aplico **SOLID**, **Clean Code**, **Design Patterns**, testes autom
 
 ---
 
-## 🎯 Foco atual de estudo
+## Foco atual de estudo
 
 - ☕ Backend Java
 - 🏛️ Arquitetura de Software
@@ -64,7 +64,7 @@ No dia a dia aplico **SOLID**, **Clean Code**, **Design Patterns**, testes autom
 
 ---
 
-## 📫 Contato
+## Contato
 
 <p>
   <a href="https://www.linkedin.com/in/filipimantelato/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
