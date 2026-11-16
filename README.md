@@ -29,19 +29,6 @@ Participo de diferentes etapas do ciclo de desenvolvimento:
 
 No dia a dia aplico **SOLID**, **Clean Code**, **Design Patterns**, testes automatizados e revisão de código.
 
----
-
-## Tecnologias
-
-**Backend**
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![Spring MVC](https://img.shields.io/badge/Spring_MVC-6DB33F?style=flat-square&logo=spring&logoColor=white)
-![REST APIs](https://img.shields.io/badge/APIs_REST-009688?style=flat-square)
-![Microsserviços](https://img.shields.io/badge/Microsserviços-0A66C2?style=flat-square)
-![JPA/Hibernate](https://img.shields.io/badge/JPA%2FHibernate-59666C?style=flat-square&logo=hibernate&logoColor=white)
-
 
 
 
